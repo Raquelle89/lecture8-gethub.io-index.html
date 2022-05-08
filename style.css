@@ -1,0 +1,204 @@
+
+
+body {
+
+	margin: 0 auto;
+
+	width:960px;
+
+	font-size: 20px;
+	font-family: times, serif;
+	background-color: #ffd9fa;
+	color: #f76011; 
+}
+
+
+
+Header[role="banner"] {
+
+	position: relative;
+	top: 20px;
+	background-color: #9pcdff;
+	height: 195px;
+	border-style: solid;
+	border-width: 20px;
+	border-color: white;
+
+
+}
+
+
+H1 {
+
+	font-size: 60px;
+	text-align: center;
+	color: ff4ba0;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	margin: 0px 0px 0px 0xp;
+}
+
+
+
+nav {
+
+	height: 50px;
+	width: 800px;
+	margin: 0px 0px 0px 60px;
+
+
+
+}
+
+nav ul {
+	text-align: center;
+	font-family: arial, verdana;
+	font-size: 18px;
+	list-style: none
+	;
+}
+
+
+nav ul li {
+
+	display: inline-block;
+	height: 110px;
+	width: 95px;
+	margin: 0px 55px 0px 5px;
+	white-space: nowrap;
+
+}
+
+
+nav ul li a {
+
+
+	text-decoration: none;
+	padding: 5px 20px 5px 20px;
+	background: #d9ffde;
+	color: #ffffff;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	border-style: solid;
+	border-width: 4px;
+	border-color: white;
+
+}
+
+
+/* end pf navigation area*/
+
+
+article {
+
+	position: relative;
+	top: 35px;
+	background-color:	#d9ffde;
+	border-style: double;
+	border-width: 10px;
+	border-color: white;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	height: 550px;
+	width: 600px;
+
+
+
+
+}
+
+article h2 {
+	color: #ff4ba0;
+	font-size: 24px;
+	line-height: 14px;
+	margin: 20px 0px 0px 0px;
+	padding: 10px 20px;
+	font-style: bold;
+}
+
+
+article p {
+
+
+	color: rgba(0, 0, 0, .5);
+	font-size: 20PX;
+	line-height: 24px;
+	padding: 2px 20px;}
+
+
+
+
+section {
+
+
+	
+	background-color: 
+#ffd9fa;
+	border-style: double;
+	border-width: 4px;
+	border-color: white;
+	padding: 0px;
+	margin: 10px 10px;
+}
+
+section h3 {
+	color: #ff4ba0;
+	font-size: 22px;
+	line-height: 14px;
+	margin: 10px 0px 0px 0px;
+	padding: 20px 5px 0px 20px;
+	font-style: bold;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+}
+
+
+section p {
+
+
+	color: #fffff;
+	font-size: 16PX;
+	font-style: italic ;
+	line-height: 22px;
+}
+
+
+
+	
+
+aside {
+
+	position: relative;
+	top: -535px;
+	left: 640px;
+	background-color: #d9ffde;
+	border-style: solid;
+	border-width: 8px;
+	border-color: white;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	height: 550px;
+	width: 302px;
+
+
+
+
+}
+
+aside h3 {
+	color: #ff4ba0;
+	font-size: 24px;
+	line-height: 14px;
+	margin: 20px 0px 0px 0px;
+	padding: 10px 20px;
+	font-style: bold;
+}
+
+
+aside p {
+
+
+	color: rgba(0, 0, 0, .5);
+	font-size: 20PX;
+	line-height: 22px;
+	padding: 0px 20px 0px 20px;}
+
+
+
+
+
